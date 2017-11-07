@@ -15,4 +15,16 @@ Bien que le soleil soit à l'origine la source vitale des plantes on peut aujour
 Avoir la base nécessaire en informatique et securité.<br>
 
 ## Matériel<br>
-![Arduino uno](
+Arduino uno<br>
+![Arduino uno](https://github.com/Henry-DA/FABLAB-Aix-/blob/master/IMG_7186.JPG)<br>
+Pomp à eau<br>
+![Pomp à eau](https://github.com/Henry-DA/FABLAB-Aix-/blob/master/pomp%20%C3%A0%20eau%20.JPG)<br>
+Relais pompe<br>
+![Relais pompe](https://github.com/Henry-DA/FABLAB-Aix-/blob/master/relay.jpg)<br>
+Détecteur d'humidité<br>
+![Détecteur d'humidité](https://github.com/Henry-DA/FABLAB-Aix-/blob/master/t%C3%A9l%C3%A9chargement.jpg)<br>
+Câbles planche à pain<br>
+![câbles planche à pain](https://github.com/Henry-DA/FABLAB-Aix-/blob/master/cables.jpg)<br>
+
+
+
