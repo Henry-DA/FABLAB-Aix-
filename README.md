@@ -1,8 +1,10 @@
-# Systems d'arrosage automatique avec GROW leds
+# Systems d'arrosage automatique avec GROW leds <br>
 
-## Présentation et objectif
+![](https://github.com/Henry-DA/FABLAB-Aix-/blob/master/Projet.JPG)
+
+## Présentation et objectif:<br>
 S’il parait évident pour la plupart que d’avoir un système d’arrosage automatique permet un certain confort dans la gestion de son espace vert, nous allons découvrir ensembles les avantages qu’un tel système peut nous apporter au quotidien:<br>
-### 1-Gestion de temps:<br>
+### 1-Gestion de temps::<br>
 car on peut imaginer qu’un arrosage automatique fonctionne, comme son nom l’indique, de manière tout à fait autonome (sauf en cas de pannes bien entendu).<br>
 ### 2-Economies:<br>
 si la réalisation d’un système d’arrosage automatique représente un certain budget bien évidemment, celui-ci vous permettra tout de même de mieux gérer vos dépenses en eau, en effet, contrairement à un arrosage manuel, vous saurez déterminer le volume d’eau nécessaire à l’alimentation de chacun des secteurs de votre système.<br>
