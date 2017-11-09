@@ -17,6 +17,6 @@ Bien que le soleil soit à l'origine la source vitale des plantes on peut aujour
 Avoir la base nécessaire en informatique et securité. <br>
 
 ## Matériel<br>
-1 Arduino uno 2,50€
-1 Relais 
-1 pomp à eau
+-1 Arduino uno 2,50€
+-1 Relais 
+_1 pomp à eau
