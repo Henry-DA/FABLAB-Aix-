@@ -17,6 +17,8 @@ Bien que le soleil soit à l'origine la source vitale des plantes on peut aujour
 Avoir la base nécessaire en informatique et securité. <br>
 
 ## Matériel<br>
-- 1 Arduino uno 2,50€ (2016 high quality One set UNO R3 (CH340G) MEGA328P for Arduino UNO R3 (NO USB CABLE)) (https://www.aliexpress.com/item/2016-high-quality-One-set-UNO-R3-CH340G-MEGA328P-for-Arduino-UNO-R3-NO-USB-CABLE/32697443734.html)
-- 1 Relais 
-- 1 pomp à eau
+- 1 Arduino uno 2.50€ (2016 high quality One set UNO R3 (CH340G) MEGA328P for Arduino UNO R3 (NO USB CABLE)) (https://www.aliexpress.com/item/2016-high-quality-One-set-UNO-R3-CH340G-MEGA328P-for-Arduino-UNO-R3-NO-USB-CABLE/32697443734.html)
+- 1 Relais 0.57€ (1pcs KY-019 5V One 1 Channel Relay Module Board Shield For PIC AVR DSP ARM for arduino Relay) (https://www.aliexpress.com/item/1pcs-KY-019-5V-One-1-Channel-Relay-Module-Board-Shield-For-PIC-AVR-DSP-ARM/32723320680.html)
+- 1 pomp à eau 6,09€ (1Pcs DC 12v D2 Small Dosing Pump Water Pump 2mm DIY Peristaltic Tube Head For Aquarium Lab Lab Wate) (https://www.aliexpress.com/item/1Pcs-DC-12v-D2-Small-Dosing-Pump-Water-Pump-2mm-DIY-Peristaltic-Tube-Head-For-Aquarium/32797820282.html)
+- 1 détecteur d'humidité 0.53 € (Soil the hygrometer detection module robot intelligent car soil moisture sensor for arduino) (https://www.aliexpress.com/item/Soil-the-hygrometer-detection-module-robot-intelligent-car-soil-moisture-sensor-for-arduino/1398732669.html)
+- 1 sac de graines herbe à chat 0.27€ (200 Seed/pack Cat Grass Lovely Plants seeds potted grass seeds,bonsai plant home garden) (https://www.aliexpress.com/item/200-Seed-pack-Cat-Grass-Lovely-Plants-seeds-potted-grass-seeds-bonsai-plant-home-garden/32737841287.html)
