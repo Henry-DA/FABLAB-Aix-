@@ -11,10 +11,10 @@ si la réalisation d’un système d’arrosage automatique représente un certa
 ### 3-Ecologie:<br>
 A l’heure où l’on nous parle d’éviter le gaspillage, la gestion d’un tel système d’arrosage automatique, comme nous venons de le voir au chapitre 2- Economie, vous permettra donc de maîtriser les quantités d’eau que vous apporterez à votre plantes.
 ### 4-Faire pouser les plantes dans un endroit sans Soliel (Grow led)<br>
-Bien que le soleil soit à l'origine la source vitale des plantes on peut aujourd'hui amenager son espace vert, n'importe où meme dans une cave, le soleil n'est plus une nécessité.br>
+Bien que le soleil soit à l'origine la source vitale des plantes on peut aujourd'hui amenager son espace vert, n'importe où meme dans une cave, le soleil n'est plus une nécessité. <br>
 
 ## Pré-requis<br> 
-Avoir la base nécessaire en informatique et securité.<br>
+Avoir la base nécessaire en informatique et securité. <br>
 
 ## Matériel<br>
 1 Arduino uno 2,50€
