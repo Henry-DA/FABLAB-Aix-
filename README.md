@@ -13,20 +13,10 @@ A l’heure où l’on nous parle d’éviter le gaspillage, la gestion d’un t
 ### 4-Faire pouser les plantes dans un endroit sans Soliel (Grow led)<br>
 Bien que le soleil soit à l'origine la source vitale des plantes on peut aujourd'hui amenager son espace vert, n'importe où meme dans une cave, le soleil n'est plus une nécessité.br>
 
-## Pré-requis<br>
+## Pré-requis<br> 
 Avoir la base nécessaire en informatique et securité.<br>
 
 ## Matériel<br>
-Arduino uno<br>
-![Arduino uno](https://github.com/Henry-DA/FABLAB-Aix-/blob/master/IMG_7186.JPG)<br>
-Pomp à eau<br>
-![Pomp à eau](https://github.com/Henry-DA/FABLAB-Aix-/blob/master/pomp%20%C3%A0%20eau%20.JPG)<br>
-Relais pompe<br>
-![Relais pompe](https://github.com/Henry-DA/FABLAB-Aix-/blob/master/relay.jpg)<br>
-Détecteur d'humidité<br>
-![Détecteur d'humidité](https://github.com/Henry-DA/FABLAB-Aix-/blob/master/t%C3%A9l%C3%A9chargement.jpg)<br>
-Câbles planche à pain<br>
-![câbles planche à pain](https://github.com/Henry-DA/FABLAB-Aix-/blob/master/cables.jpg)<br>
-
-
-
+1 Arduino uno 2,50€
+1 Relais 
+1 pomp à eau
