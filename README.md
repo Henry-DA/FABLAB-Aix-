@@ -17,6 +17,6 @@ Bien que le soleil soit à l'origine la source vitale des plantes on peut aujour
 Avoir la base nécessaire en informatique et securité. <br>
 
 ## Matériel<br>
-- 1 Arduino uno 2,50€
+- 1 Arduino uno 2,50€ (2016 high quality One set UNO R3 (CH340G) MEGA328P for Arduino UNO R3 (NO USB CABLE)) (https://www.aliexpress.com/item/2016-high-quality-One-set-UNO-R3-CH340G-MEGA328P-for-Arduino-UNO-R3-NO-USB-CABLE/32697443734.html)
 - 1 Relais 
 - 1 pomp à eau
