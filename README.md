@@ -16,7 +16,7 @@ Bien que le soleil soit à l'origine la source vitale des plantes on peut aujour
 ## Pré-requis<br> 
 Avoir la base nécessaire en informatique et securité. <br>
 
-## Matériel<br>
+## Matériells<br>
 - 1 Arduino uno 2.50€ (2016 high quality One set UNO R3 (CH340G) MEGA328P for Arduino UNO R3 (NO USB CABLE)) (https://www.aliexpress.com/item/2016-high-quality-One-set-UNO-R3-CH340G-MEGA328P-for-Arduino-UNO-R3-NO-USB-CABLE/32697443734.html)
 - 1 Relais 0.57€ (1pcs KY-019 5V One 1 Channel Relay Module Board Shield For PIC AVR DSP ARM for arduino Relay) (https://www.aliexpress.com/item/1pcs-KY-019-5V-One-1-Channel-Relay-Module-Board-Shield-For-PIC-AVR-DSP-ARM/32723320680.html)
 - 1 pomp à eau 6,09€ (1Pcs DC 12v D2 Small Dosing Pump Water Pump 2mm DIY Peristaltic Tube Head For Aquarium Lab Lab Wate) (https://www.aliexpress.com/item/1Pcs-DC-12v-D2-Small-Dosing-Pump-Water-Pump-2mm-DIY-Peristaltic-Tube-Head-For-Aquarium/32797820282.html)
@@ -26,3 +26,21 @@ Avoir la base nécessaire en informatique et securité. <br>
 - 50 cm Grow led 1.72€ (LED Grow Light DC 12V 60LEDs/M Growing LED Strip 5M/Roll 5050 SMD 300LED IP65 IP33 Waterproof Ribbon LED lamp plant Night Decor) (https://www.aliexpress.com/item/LED-Grow-Light-DC-12V-60LEDs-M-Growing-LED-Strip-5M-Roll-5050-SMD-300LED/32825166892.html)
 - Adaptateur 12V 6.05€ (Wholesale Universal AC DC Adapter Converter 6 Plug DC 3, 4.5, 6, 7.5, 9, 12 V 30 Power Charger EU Standard) (https://www.aliexpress.com/item/NI5L-Wholesale-Universal-AC-DC-Adapter-Converter-6-Plug-DC-3-4-5-6-7-5/32777278351.html)
 - 1M Tuyou Silione 2mm 0.54€ (1PCS/LOT YT823B Imported Silicone Tube Food Grade Capillary Transparent Hose ID 0.5 mm*OD 1/1.5/2mm Plumbing Hoses 1Meter) (https://www.aliexpress.com/item/1PCS-LOT-YT823B-Imported-Silicone-Tube-Food-Grade-Capillary-Transparent-Hose-0-5-mm-1-1/32795517670.html)
+TOTAL = 20.48€ via Aliexpresse https://www.aliexpress.com/
+
+## Matériaux<br>
+- Planch de bois 
+- Fil en plastique special l'imprimante 3D
+- Colle type super glue
+
+## Outils<br>
+- Imprimante 3D
+- Pistolet à colle 
+- Découpeuse laser
+- Fer à souder
+
+## Logiciel<br>
+- https://www.onshape.com/ (pour créer les objets en 3D)
+- Cura (pour imprimer en 3D) https://ultimaker.com/en/products/ultimaker-cura-software
+- Inkspace (pour lréer les objets en bois) https://inkscape.org/en/release/0.92.2/
+- JobControl (pour la déoupeuse laser)
