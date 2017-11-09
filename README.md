@@ -40,7 +40,8 @@ TOTAL = 20.48€ via Aliexpresse https://www.aliexpress.com/
 - Fer à souder
 
 ## Logiciel<br>
-- https://www.onshape.com/ (pour créer les objets en 3D)
+- Onshape (pour créer les objets en 3D) https://www.onshape.com/ 
 - Cura (pour imprimer en 3D) https://ultimaker.com/en/products/ultimaker-cura-software
 - Inkspace (pour lréer les objets en bois) https://inkscape.org/en/release/0.92.2/
-- JobControl (pour la déoupeuse laser)
+- JobControl (pour la déoupeuse laser) (pour créer les objets en 3D)
+
